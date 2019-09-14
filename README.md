@@ -16,7 +16,8 @@ Sketchy utiliza una serie de filtros morfologicos de elaboracion propia junto co
 * Si ya cuenta con tools.zip, solo coloque dicho archivo en la raiz de Colab y deje correr el Script sketchy_final.py
 
 # Resultados 
-aca van las imagenes
+![alt text](./val.png)
+
 
 # Referencias
 1. Kazemi, V., & Sullivan, J. (2014). One millisecond face alignment with an ensemble of regression trees. 2014 IEEE Conference on Computer Vision and Pattern Recognition, 1867-1874.
