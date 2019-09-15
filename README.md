@@ -6,7 +6,10 @@ Sketchy utiliza una serie de filtros morfologicos de elaboracion propia junto co
 
 # Documentacion del Algoritmo
 El metodo es explicado en Sketch2face.pdf
-
+# Modelo entrenado 
+https://drive.google.com/folderview?id=1-zZjf6k-LIJAyvCqzty_V5GJK1szWW_Z
+#Archivo tools.zip
+https://mega.nz/#F!mllnjQYC!E47eZ0yHJ-t3AjvDujONIw
 # Steps
 * Generacion del Dataset de forma no supervisada utilizando el conjunto de imagenes de [2]
 * Traduccion del dominio de Dibujo a Caras_realistas usando Pix2pix
